@@ -327,7 +327,7 @@
 			(uuid "6ca74a4c-ccc1-4be7-870c-cba900052dcb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.step"
+		(model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -476,7 +476,7 @@
 			(uuid "91e452a1-d93a-4467-b746-f868fe04d6cd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.step"
+		(model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -706,7 +706,7 @@
 			(uuid "1efd23a2-b6de-49a4-b6c2-d15ea6b7ae98")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.step"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D3.0mm_W1.6mm_P2.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -732,6 +732,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -743,6 +744,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1171,7 +1173,7 @@
 			(uuid "30633f90-4f81-42c7-b9eb-147e0e7357f0")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IND-TH_BD7.0-H10.0-P2.50-D0.7.wrl"
+		(model "${KIPRJMOD}/packages3D/IND-TH_BD7.0-H10.0-P2.50-D0.7.wrl"
 			(offset
 				(xyz 0 -0 0)
 			)
@@ -2708,7 +2710,7 @@
 			(uuid "775ac134-0164-46d4-80b3-aaa4a0c09a7e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.step"
+		(model "${KIPRJMOD}/packages3D/CP_Radial_D6.3mm_P2.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3070,7 +3072,7 @@
 			(uuid "2c841ddf-d3d9-40b1-850a-c468d62483ae")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/3296W.wrl"
+		(model "${KIPRJMOD}/packages3D/3296W.wrl"
 			(offset
 				(xyz 0 -0 0)
 			)
@@ -3219,7 +3221,7 @@
 			(uuid "1c83b087-1c94-4059-b883-590697f69128")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.step"
+		(model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3581,7 +3583,7 @@
 			(uuid "6bd45928-0cd7-41a6-9e6c-d0320261063b")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/3296W.wrl"
+		(model "${KIPRJMOD}/packages3D/3296W.wrl"
 			(offset
 				(xyz 0 -0 0)
 			)
@@ -3607,6 +3609,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3618,6 +3621,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4196,7 +4200,7 @@
 			(uuid "5c401482-60cf-40cc-bfe2-ed378792c7cd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.step"
+		(model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4222,6 +4226,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4233,6 +4238,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4590,6 +4596,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4601,6 +4608,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5128,7 +5136,7 @@
 			(uuid "d468191f-3298-465c-9b7f-120c884a16f9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5154,6 +5162,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5165,6 +5174,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5956,7 +5966,7 @@
 			(uuid "cc86ccde-9fb3-4ed8-8916-b55d92070eca")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/packages3D/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6283,7 +6293,7 @@
 			(uuid "7cf83257-854d-4a9f-8602-17e2ed72f66d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.step"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D3.0mm_W1.6mm_P2.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7820,7 +7830,7 @@
 			(uuid "5250b606-b9a1-4a1c-bb48-08defc0e5b75")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.step"
+		(model "${KIPRJMOD}/packages3D/CP_Radial_D6.3mm_P2.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8050,7 +8060,7 @@
 			(uuid "316172fc-3272-483d-aa4d-6940feec5d9a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.step"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D3.0mm_W1.6mm_P2.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8280,7 +8290,7 @@
 			(uuid "447d3e31-8341-4b31-8069-4d382fb9e4bc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.step"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D3.0mm_W1.6mm_P2.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8459,7 +8469,7 @@
 			(uuid "936b327b-5197-4537-a609-4b7b7fb57d32")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IND-TH_BD7.0-H10.0-P2.50-D0.7.wrl"
+		(model "${KIPRJMOD}/packages3D/IND-TH_BD7.0-H10.0-P2.50-D0.7.wrl"
 			(offset
 				(xyz 0 -0 0)
 			)
@@ -8608,7 +8618,7 @@
 			(uuid "8fa733ba-e9d1-4f03-b6e2-3231fd09155d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.step"
+		(model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8757,7 +8767,7 @@
 			(uuid "40f060f2-bb57-4b2f-bf73-a737663489c6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.step"
+		(model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9003,7 +9013,7 @@
 			(uuid "1f005f13-e773-4062-b471-66b56ed58694")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.step"
+		(model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9199,7 +9209,7 @@
 			(uuid "c2d10b0b-7cd2-4ece-8bf2-95962ca4a1ed")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9225,6 +9235,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9236,6 +9247,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
